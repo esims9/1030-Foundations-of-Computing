@@ -1,0 +1,30 @@
+/*
+background color: #F2A88D;
+heading color: #57733C;
+text color:  #3D402C;
+*/
+
+body {
+	background-color: #F2A88D;
+}
+
+p {
+	color: #3D402C;
+}
+
+h1, h2 {
+	color: #57733C;
+}
+
+th, td {
+	border: #591202 solid 4px;
+	padding: 6px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+div {
+	padding: 10px;
+}

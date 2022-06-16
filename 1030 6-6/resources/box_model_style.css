@@ -1,0 +1,55 @@
+/*
+  white: #FFFFFF
+  accent color1: #364031;
+  accent color2: #8C5F5E;
+*/
+
+body {
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3 {
+  color: #364031;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border: #8C5F5E solid 4px;
+  padding: 4px;
+}
+
+table {
+  border-collapse:  collapse;
+}
+
+a:hover {
+  color: #8C5F5E;
+}
+
+.text {
+  background-color: #364031;
+  color: #FFFFFF;
+  width: 3in;
+  padding: 16px 10px 16px 10px;
+  border: dotted;
+  border-width: 2px;
+  border-color: #8C5F5E;
+  margin: 12px;
+}
+
+div {
+  background-color: #364031;
+  width: 646px;
+  padding: 24px;
+  border: groove;
+  border-width: 16px;
+  border-color: #8C5F5E;
+  margin: 28px;
+  padding: 39px;
+}/*
+  white: #FFFFFF
+*/
