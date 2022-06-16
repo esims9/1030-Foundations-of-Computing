@@ -1,0 +1,2 @@
+# 1030-Foundations-of-Computing
+The course is taught at an introductory level and includes topics such as the history of computers, computer architecture, operating systems, world wide web and HTML, programming with Java, databases, software engineering, and more. Through a series of lectures, discussions, exercises, quizzes, tests students will learn first-hand about the field of computer science.
